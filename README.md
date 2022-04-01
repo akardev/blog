@@ -1,2 +1,2 @@
-# blog with laravel
-Laravel ile yaptığım ilk blog sitesi kaynak kodları
+blog-with-laravel
+Laravel ile kodladığım blog sitesi kaynak kodları
