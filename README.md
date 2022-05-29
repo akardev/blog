@@ -1,2 +1,2 @@
 
-### Simple blog with laravel
+### Simple blog with laravel 5.6
